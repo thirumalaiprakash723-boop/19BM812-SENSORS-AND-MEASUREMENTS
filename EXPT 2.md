@@ -34,7 +34,8 @@ i)Resistance-Temperature for thermistor
 
 
 # TABULATION
-<img width="1092" height="450" alt="image" src="https://github.com/user-attachments/assets/6386f4ac-7bf7-4714-aa0d-c70f4477c87b" />
+<img width="826" height="1072" alt="image" src="https://github.com/user-attachments/assets/449b8cea-fd61-4eea-8ce8-f18c6a3191db" />
+
 
 
 
@@ -44,6 +45,7 @@ i)Resistance-Temperature for thermistor
 
 # GRAPH:
 
+<img width="822" height="1086" alt="image" src="https://github.com/user-attachments/assets/dfd479e8-7a68-4a4c-b7fc-cc392cb01df2" />
 
 # RESULT
 Thus, the characteristics of Thermistor are verified using thermometer and hot bath.
