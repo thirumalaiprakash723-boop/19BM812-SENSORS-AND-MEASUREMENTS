@@ -48,5 +48,6 @@ there are no sliding contacts, there is less Friction and less noise.
 # GRAPH:
 
 <img width="1158" height="1600" alt="WhatsApp Image 2026-05-28 at 7 08 40 PM (1)" src="https://github.com/user-attachments/assets/b653b584-0382-4c3f-853c-248905d0ac55" />
+
 # RESULT
 Thus, the characteristics of LVDT is analysed and tabulated
